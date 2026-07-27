@@ -31,7 +31,7 @@ Welcome to my submission repository for the **UI/UX Design Internship** at **Rho
   * **Sidebar Navigation:** Collapsible/fixed navigation with links (Dashboard, Tasks, Analytics, Settings).
   * **Top Bar:** Includes search input, quick notification icon, and user profile avatar.
   * **Task Cards Grid:** Cards displaying Task Name, Deadline badge, and Priority indicators (High, Medium, Low).
-* **Figma Project Link:** [View Task 1 on Figma](https://www.figma.com/design/PmZcmMdnnwxjdDzWTmAr4i/Untitled?node-id=0-1&t=o8DthTvddQvRPXxe-1)
+* **Figma Project Link:** [View Task 1 on Figma](https://www.figma.com/proto/PmZcmMdnnwxjdDzWTmAr4i/Task-Manager-Web_based-Dashboard?node-id=2-2&p=f&t=Pjp5HTplmX72PM2J-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ---
 
