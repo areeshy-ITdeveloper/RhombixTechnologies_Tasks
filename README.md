@@ -6,7 +6,7 @@ Welcome to my submission repository for the **UI/UX Design Internship** at **Rho
 
 ## 👤 Intern Details
 
-* **Name:** Areesha  
+* **Name:** Areesha Asmat 
 * **Role:** UI/UX Design Intern  
 * **Company:** Rhombix Technologies  
 * **Domain:** UI/UX Design  
