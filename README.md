@@ -37,10 +37,10 @@ Welcome to my submission repository for the **UI/UX Design Internship** at **Rho
 
 <!-- Next Tasks Placeholder -->
 
-### 🔹 Task 2: [Upcoming Task]
-* **Description:** [Details will be added upon assignment]
-* **Key Focus:** [Responsive design / Wireframing / Prototyping]
-* **Figma Project Link:** [View Task 2 on Figma](#)
+### 🔹 Task 2: Wireframe a Food Delivery Application (Low-Fidelity)
+* **Description:** Create low-fidelity wireframes for a mobile food delivery app, covering the home page, restaurant listing, item details, cart, and checkout screens. Focus on structure, user flow, and content organization rather than visual design — use grayscale and simple shapes throughout.
+* **Key Focus:** Understanding user flow, information layout, and content organization in a mobile app — emphasizing structural clarity and logical screen progression over visual polish.
+* **Figma Project Link:** [View Task 2 on Figma](https://www.figma.com/design/TROufzf1IoMISnzNL1fSp6/Food-Delivery-App---Low-Fi-Wireframes?node-id=0-1&t=GKQQB8HzUrmD25uw-1)
 
 ---
 
