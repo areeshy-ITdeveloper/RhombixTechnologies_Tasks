@@ -50,7 +50,13 @@ Welcome to my submission repository for the **UI/UX Design Internship** at **Rho
   * **Layout & Spacing Rules:** Established auto-layout constraints and grid systems to promote consistency across future project screens.
 * **Figma Project Link:** [View Task 3 on Figma](https://www.figma.com/design/84mFwJeCnkwEKcFotqwhhS/UI-designs?node-id=0-1&t=AeVKE9cZ7Fauebzd-1)
 
----
+### Task 4: Design the UI Flow of a Booking System
+* **Description:** Designed the end-to-end user interface and interaction flow for a service-based appointment booking system, optimized for both web and mobile platforms.
+* **Key Components & User Flow:**
+  * **Core Screen Hierarchy:** Created essential screens including Home/Dashboard, Service Listing with custom filter controls, Calendar Date & Time Selection, and Booking Summary with Confirmation.
+  * **Interactive UX Elements:** Integrated intuitive UI controls like interactive date pickers, distance sliders, and filter checkboxes for seamless navigation.
+  * **Micro-interactions & Responsiveness:** Built structured layouts focusing on clear form validation states, smooth user progression, and consistent cross-device accessibility.
+* **Figma Project Link:** [View Task 4 on Figma](https://www.figma.com/design/84mFwJeCnkwEKcFotqwhhS/UI-designs?node-id=61-2&t=AeVKE9cZ7Fauebzd-1)
 ---
 
 
