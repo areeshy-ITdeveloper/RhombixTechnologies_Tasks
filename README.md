@@ -41,7 +41,16 @@ Welcome to my submission repository for the **UI/UX Design Internship** at **Rho
 * **Description:** Create low-fidelity wireframes for a mobile food delivery app, covering the home page, restaurant listing, item details, cart, and checkout screens. Focus on structure, user flow, and content organization rather than visual design — use grayscale and simple shapes throughout.
 * **Key Focus:** Understanding user flow, information layout, and content organization in a mobile app — emphasizing structural clarity and logical screen progression over visual polish.
 * **Figma Project Link:** [View Task 2 on Figma](https://www.figma.com/design/TROufzf1IoMISnzNL1fSp6/Food-Delivery-App---Low-Fi-Wireframes?node-id=0-1&t=GKQQB8HzUrmD25uw-1)
+  
+### Task 3: Build a Mini Design System
+* **Description:** Designed a foundational mini design system in Figma to establish design consistency and streamline the creation of scalable UI components.
+* **Key Components & Tokens:**
+  * **Color Palette & Typography:** Defined primary, secondary, neutral, and semantic color tokens alongside a structured type scale.
+  * **Interactive Components:** Created multi-state buttons (default, hover, disabled), standard form input fields, and reusable card layouts using Figma Component Sets.
+  * **Layout & Spacing Rules:** Established auto-layout constraints and grid systems to promote consistency across future project screens.
+* **Figma Project Link:** [View Task 3 on Figma](https://www.figma.com/design/84mFwJeCnkwEKcFotqwhhS/UI-designs?node-id=0-1&t=AeVKE9cZ7Fauebzd-1)
 
+---
 ---
 
 
