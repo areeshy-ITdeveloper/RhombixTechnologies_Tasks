@@ -58,6 +58,14 @@ Welcome to my submission repository for the **UI/UX Design Internship** at **Rho
   * **Micro-interactions & Responsiveness:** Built structured layouts focusing on clear form validation states, smooth user progression, and consistent cross-device accessibility.
 * **Figma Project Link:** [View Task 4 on Figma](https://www.figma.com/design/84mFwJeCnkwEKcFotqwhhS/UI-designs?node-id=61-2&t=AeVKE9cZ7Fauebzd-1)
 ---
+## Task 5: UX Audit of a Local Website or Mobile App
+- **Description:** Performed a detailed UX audit on Khaadi's e-commerce website to analyze the interface, identify usability issues, and document findings with supporting screenshots and improvement suggestions.
+- **Key Findings & Analysis:**
+  - **Product Bundling Confusion:** Identified a recurring pattern where selecting a single product (e.g., a stitched outfit or kurta) automatically added a second, separately priced item to the shopping bag without clear explanation, leading to customer confusion.
+  - **Lack of Preventive Design:** Found that while a delete option exists in the cart to remove unwanted items, this only corrects the issue after it occurs rather than preventing it — becoming more confusing as more items are added during a session.
+  - **Site-wide Pattern:** Confirmed the same bundling behavior across multiple, unrelated products, indicating a systemic design issue rather than an isolated glitch.
+  - **Positive Observation:** The checkout flow, including email entry, shipping, and payment sections, was found to be clear and well-structured.
+- **Report Link:** ([View Task 1 Report](https://drive.google.com/file/d/1SwrgZ8rGne46oMCVixeUxaHfvT8MBPUs/view?usp=sharing))
 
 
 
