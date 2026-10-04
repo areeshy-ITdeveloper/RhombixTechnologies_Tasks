@@ -67,6 +67,16 @@ Welcome to my submission repository for the **UI/UX Design Internship** at **Rho
   - **Positive Observation:** The checkout flow, including email entry, shipping, and payment sections, was found to be clear and well-structured.
 - **Report Link:** ([View Task 1 Report](https://drive.google.com/file/d/1SwrgZ8rGne46oMCVixeUxaHfvT8MBPUs/view?usp=sharing))
 
+- ## Task 6: Complete Case Study — FinTech App for Students
+- **Description:** Created a complete UI/UX case study for "SaveIt," a FinTech budgeting and savings app designed specifically for university students, covering the full design process from research to final screens.
+- **Key Components & Process:**
+  - **User Research & Persona:** Conducted informal research into student financial habits and developed a primary user persona (Maya Chen) to guide design decisions.
+  - **User Journey Mapping:** Mapped an 8-stage end-to-end journey, from onboarding through daily expense tracking, goal setting, fee reminders, and bill splitting.
+  - **Wireframes & High-Fidelity Screens:** Designed low-fidelity wireframes followed by polished high-fidelity screens across 9 core app flows, including Home Dashboard, Add Expense, Savings Goals, Split Bill, Fee Reminders, and Profile.
+  - **Design Rationale:** Linked each core feature directly back to a specific user research finding to ensure the design solved real student pain points.
+- **Figma Project Link:** ([View Task 2 on Figma](https://www.figma.com/design/84mFwJeCnkwEKcFotqwhhS/UI-designs?node-id=176-295&t=Xcnpy29Smvb3FprZ-1))
+- **Case Study Presentation:** ([View Task 2 Presentation](https://drive.google.com/file/d/1w-jgrg9u53tVBju0LTvncyOSuq3V_BMn/view?usp=sharing))
+
 
 
 <p align="center">
